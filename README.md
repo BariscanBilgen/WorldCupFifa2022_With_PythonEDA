@@ -1,6 +1,6 @@
 # World Cup Fifa 2022 With Python EDA
 
-Bu çalışmada 2022 dünya kupası ile ilgili bu veritabanını analiz ettik, bu veritabanında 1993'ten bu yana tüm oyunların verilerini çarpıp, sadece 2022'ye göre filtreleyedik ve 2022 dünya kupası hakkında iyi görüşler elde etmek için bazı çalışmalar yaptık.
+Bu çalışmada 2022 dünya kupası ile ilgili bu veritabanını analiz ettim, bu veritabanında 1993'ten bu yana tüm oyunların verilerini çarpıp, 2022'ye göre filtreledim.
 
 ![Python_FifaEda](https://user-images.githubusercontent.com/91004987/208440224-89b04bed-3561-4160-939f-145012d64328.jpg)
 
